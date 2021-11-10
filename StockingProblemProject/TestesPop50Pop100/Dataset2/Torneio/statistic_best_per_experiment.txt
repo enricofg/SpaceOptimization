@@ -1,0 +1,111 @@
+
+
+Population size:100
+Max generations:50
+Selection:Tournament(2)
+Recombination:Cycle recombination (0.9)
+Recombination prob.: 0.9
+Mutation:Inversion mutation (0.025)
+Mutation prob.: 0.025
+fitness: 104.9
+38 51 44 47 22 16 39 34 50 37 11 6 27 45 31 9 14 0 42 20 10 36 13 1 28 17 21 30 29 43 41 7 40 23 33 24 15 18 2 48 25 32 5 49 19 12 46 4 8 35 3 26 
+mm vCvLGGffFVVV pPPPZZMMMM                                                                                                       
+mmmvCvLGGffFVcVppp PZgguuu                                                                                                       
+zmzvvvLbbfqFqceeppYYZgEEEu                                                                                                       
+zzzQiiLbNNNqcceeoYYYSgguuu                                                                                                       
+AzQQQiHHbNqRqd oooSSSTTTaa                                                                                                       
+sssJiiHytttRRRdooX XxTTjaa                                                                                                       
+sBsJJyyyt UUUdd  XXXxxxjj                                                                                                        
+sssnnyl tttUUkrrrhhwwwxjj                                                                                                        
+WWnnnlllOOOKkkr rhhw wII                                                                                                         
+WWWnDDl O KKkkrrr hw w I                                                                                                         
+Número de colunas: 26
+Número de cortes: 289
+
+Population size:100
+Max generations:50
+Selection:Tournament(4)
+Recombination:Cycle recombination (0.9)
+Recombination prob.: 0.9
+Mutation:Inversion mutation (0.025)
+Mutation prob.: 0.025
+fitness: 105.5
+21 16 7 48 45 0 46 6 31 27 29 18 32 42 47 49 51 12 44 36 38 1 33 23 41 13 28 40 43 17 4 26 30 5 37 19 25 10 15 8 24 2 39 35 14 34 50 3 22 11 9 20 
+VVVtttd v vsssaacrrrZZJiiL                                                                                                       
+VQVtEEEdv vs saacr rZjJJiL                                                                                                       
+QQQtttddvvvssspccrrrZjjiiL                                                                                                       
+HH uuuggxDDmmpppeePPPjjWWL                                                                                                       
+HMMMMug xxxmmmppeel PnnWWW                                                                                                       
+wwwuuuggKzxzmNNNolllnnnUUU                                                                                                       
+wCwffbbKKzzzhhNooolIIn  UU                                                                                                       
+wCwffbq qFzkhh ooTTTIOOOy                                                                                                        
+AGGf Sbq FkkXhXR TTYYOyyy                                                                                                        
+BGGSSSq qFkkXXXRRRYYY y                                                                                                          
+Número de colunas: 26
+Número de cortes: 291
+
+Population size:100
+Max generations:50
+Selection:Tournament(6)
+Recombination:Cycle recombination (0.9)
+Recombination prob.: 0.9
+Mutation:Inversion mutation (0.025)
+Mutation prob.: 0.025
+fitness: 104.9
+13 11 51 43 29 1 9 32 36 42 8 14 49 21 10 16 50 37 35 48 41 26 20 38 25 5 40 45 47 34 46 24 12 30 6 33 28 19 3 18 4 22 27 17 0 39 44 15 23 2 7 31 
+NNNK kVVVCwwwZZ   YYWW X X                                                                                                       
+LNKKkkVQVCwFwZv vYYYWWWXXX                                                                                                       
+LrrrkkQQQywFwZv veehhbbnn                                                                                                        
+Lr rII yyypFmmvvveehhbnnn                                                                                                        
+LrrrqIqylpppmmmiiGGch bnff                                                                                                       
+zAzggq lllppomHHiGGcRPPPff                                                                                                       
+zzzgqxq laaoooHii ccRRRPf                                                                                                        
+dzJggxxxjaaootttuuuTTTsss                                                                                                        
+BdJJOOOxjjUUUtMMMMuTTSs s                                                                                                        
+ddDDOEEEjj UUtttuuuSSSsss                                                                                                        
+Número de colunas: 26
+Número de cortes: 289
+
+Population size:100
+Max generations:50
+Selection:Tournament(8)
+Recombination:Cycle recombination (0.9)
+Recombination prob.: 0.9
+Mutation:Inversion mutation (0.025)
+Mutation prob.: 0.025
+fitness: 105.8
+32 33 47 37 22 26 8 41 15 23 45 50 20 46 19 10 6 14 42 44 1 5 40 16 29 21 0 30 34 39 3 48 2 31 12 36 25 51 13 4 49 28 7 9 24 35 18 43 38 27 11 17 
+gglPPPUUUOOOEEEwwwZZJ rrrL                                                                                                       
+glllpPCUUOssseew wZxJJr rL                                                                                                       
+gglpppCTTTs seew wZxxxrrrL                                                                                                       
+hhaappyTT sssoiiffNNNxmm L                                                                                                       
+hhaayyyKGGF oooiffkNcjmmm                                                                                                        
+vhvXyXKKGGFdooiifkk cjjmbb                                                                                                       
+vBvXXXuuuqFqdHHnnkkccjjSb                                                                                                        
+vvvAttt u qddHnnn z zSSS b                                                                                                       
+WWIIt uuuqQqVVVn  zzzYYR                                                                                                         
+WWWItttDDQQQV VMMMMzYYYRRR                                                                                                       
+Número de colunas: 26
+Número de cortes: 292
+
+Population size:100
+Max generations:50
+Selection:Tournament(10)
+Recombination:Cycle recombination (0.9)
+Recombination prob.: 0.9
+Mutation:Inversion mutation (0.025)
+Mutation prob.: 0.025
+fitness: 105.8
+43 16 21 36 0 22 33 6 3 26 25 37 28 38 32 40 13 29 20 11 1 15 49 51 41 23 17 8 2 42 10 44 7 46 31 48 18 30 34 12 5 39 35 27 24 50 19 45 14 47 4 9 
+rrrhhZZggPPP RuuuwwwFTTT                                                                                                         
+rBrhhZcgUUUPpRRRuw wFTTv v                                                                                                       
+rrr hZcggUUpppuuuw wFYYv v                                                                                                       
+AQ GGccNNNx ppbbffeeYYYvvv                                                                                                       
+QQQGGmmdNLxxxqbqffeennOOO                                                                                                        
+VVVaammmdLIIx qbf SnnnOyJ                                                                                                        
+VkVaalmddLzIzqKqSSS nyyyJJ                                                                                                       
+kkWWlllo LzzzKKsssiijyttt                                                                                                        
+kkWWWloooCXzXHHs s ijjtEEE                                                                                                       
+DDMMMMoo CXXXH sssiijjttt                                                                                                        
+Número de colunas: 26
+Número de cortes: 292

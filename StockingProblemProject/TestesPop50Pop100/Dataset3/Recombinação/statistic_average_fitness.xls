@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	50	Tournament(4)	PMX	0.1	Insert	0.03		129.968	2.218778042076315
+100	50	Tournament(4)	PMX	0.2	Insert	0.03		130.114	2.3732686320768637
+100	50	Tournament(4)	PMX	0.3	Insert	0.03		129.224	2.183351552086837
+100	50	Tournament(4)	PMX	0.4	Insert	0.03		129.376	2.5179007128955666
+100	50	Tournament(4)	PMX	0.5	Insert	0.03		128.988	2.273203906384114
+100	50	Tournament(4)	PMX	0.6	Insert	0.03		128.454	2.279842977049076
+100	50	Tournament(4)	PMX	0.7	Insert	0.03		128.208	1.989255136979668
+100	50	Tournament(4)	PMX	0.8	Insert	0.03		127.13400000000006	2.047985351510111
+100	50	Tournament(4)	PMX	0.9	Insert	0.03		126.10200000000003	2.334051413315481
+100	50	Tournament(4)	Cycle recombination (0.1)	0.1	Insert	0.03		130.916	2.5952541301383176
+100	50	Tournament(4)	Cycle recombination (0.2)	0.2	Insert	0.03		130.896	2.1179197340787024
+100	50	Tournament(4)	Cycle recombination (0.3)	0.3	Insert	0.03		130.37599999999998	2.1049997624702943
+100	50	Tournament(4)	Cycle recombination (0.4)	0.4	Insert	0.03		130.19199999999998	2.2368585113949426
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.03		129.69	2.0737646925338464
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.03		129.27399999999997	2.2353353216016614
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.03		129.33999999999997	2.0697825972792376
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.03		128.988	1.7854568042940733
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.03		128.68599999999998	2.2698026345918265
+100	50	Tournament(4)	Ordered recombination (0.1)	0.1	Insert	0.03		130.514	2.205176636915965
+100	50	Tournament(4)	Ordered recombination (0.2)	0.2	Insert	0.03		129.85599999999994	2.3064396805466205
+100	50	Tournament(4)	Ordered recombination (0.3)	0.3	Insert	0.03		130.408	2.0047782919814345
+100	50	Tournament(4)	Ordered recombination (0.4)	0.4	Insert	0.03		129.71400000000003	1.9144722510394343
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.03		129.30799999999996	2.278582015201557
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.03		129.16800000000003	1.7314086750389122
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.03		128.176	2.3614876667050373
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.03		128.39800000000002	1.924005197498177
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.03		128.32	1.343874994186586

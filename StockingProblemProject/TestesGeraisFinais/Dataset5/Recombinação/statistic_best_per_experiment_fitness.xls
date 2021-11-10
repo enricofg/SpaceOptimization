@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+200	50	Tournament(4)	PMX	0.1	Insert	0.03		415.6	11
+200	50	Tournament(4)	PMX	0.2	Insert	0.03		414.79999999999995	17
+200	50	Tournament(4)	PMX	0.3	Insert	0.03		413.79999999999995	41
+200	50	Tournament(4)	PMX	0.4	Insert	0.03		413.4	25
+200	50	Tournament(4)	PMX	0.5	Insert	0.03		413.0	5
+200	50	Tournament(4)	PMX	0.6	Insert	0.03		411.9	44
+200	50	Tournament(4)	PMX	0.7	Insert	0.03		411.9	42
+200	50	Tournament(4)	PMX	0.8	Insert	0.03		413.09999999999997	28
+200	50	Tournament(4)	PMX	0.9	Insert	0.03		410.6	39
+200	50	Tournament(4)	Cycle recombination (0.1)	0.1	Insert	0.03		419.29999999999995	21
+200	50	Tournament(4)	Cycle recombination (0.2)	0.2	Insert	0.03		417.9	1
+200	50	Tournament(4)	Cycle recombination (0.3)	0.3	Insert	0.03		413.9	5
+200	50	Tournament(4)	Cycle recombination (0.4)	0.4	Insert	0.03		411.29999999999995	17
+200	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.03		413.09999999999997	14
+200	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.03		414.2	31
+200	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.03		415.0	19
+200	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.03		410.0	20
+200	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.03		414.59999999999997	36
+200	50	Tournament(4)	Ordered recombination (0.1)	0.1	Insert	0.03		415.7	47
+200	50	Tournament(4)	Ordered recombination (0.2)	0.2	Insert	0.03		418.19999999999993	12
+200	50	Tournament(4)	Ordered recombination (0.3)	0.3	Insert	0.03		414.9	33
+200	50	Tournament(4)	Ordered recombination (0.4)	0.4	Insert	0.03		413.5	35
+200	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.03		414.29999999999995	47
+200	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.03		413.4	5
+200	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.03		413.4	14
+200	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.03		415.09999999999997	26
+200	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.03		411.5	36

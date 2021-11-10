@@ -1,0 +1,10 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.01		109.11399999999999	1.2404853888700176
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.025		108.58000000000001	1.5061208450851464
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.03		108.99799999999999	1.2597602946592628
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		109.29599999999996	1.1537694743751883
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		108.97200000000001	1.6934036730797515
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		108.648	1.526989194460783
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		109.25	1.3954569144190732
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		108.314	1.5985005473880805
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		108.65800000000003	1.1694597043079318

@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:	Average:	StdDev:
+50	25	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	101,396	0,894418247
+50	50	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	101,348	0,881417041
+50	100	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	101,084	1,02846682
+50	200	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	100,938	1,061864398
+100	25	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	99,486	1,206318366
+100	50	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,982	0,770114277
+100	100	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,976	0,756190452
+100	200	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,932	0,705248892
+200	25	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,894	0,658911223
+200	50	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,7	8,53E-14
+200	100	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,7	8,53E-14
+200	200	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,7	8,53E-14
+400	25	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,7	8,53E-14
+400	50	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,7	8,53E-14
+400	100	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,7	8,53E-14
+400	200	Tournament(2)	Cycle recombination (0,9)	0,9	Insert	0,03	98,7	8,53E-14

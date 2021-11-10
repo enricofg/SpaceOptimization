@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+50	25	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		89.8	40
+50	50	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		88.89999999999999	40
+50	100	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		88.89999999999999	40
+50	200	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		88.89999999999999	40
+100	25	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		90.69999999999999	30
+100	50	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		90.1	2
+100	100	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		88.89999999999999	3
+100	200	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		87.0	31
+200	25	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		91.89999999999999	3
+200	50	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		87.3	49
+200	100	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		84.8	50
+200	200	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		84.8	50
+400	25	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		91.6	27
+400	50	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		89.8	1
+400	100	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		84.19999999999999	1
+400	200	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		84.19999999999999	1

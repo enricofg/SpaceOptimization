@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	50	Tournament(2)	PMX	0.1	Swap mutation (0.025)	0.025		96.22200000000001	1.527257673085977
+100	50	Tournament(2)	PMX	0.2	Swap mutation (0.025)	0.025		95.47599999999998	1.7054688504924378
+100	50	Tournament(2)	PMX	0.3	Swap mutation (0.025)	0.025		95.41000000000003	1.4778700890132384
+100	50	Tournament(2)	PMX	0.4	Swap mutation (0.025)	0.025		94.27000000000002	1.871176100745197
+100	50	Tournament(2)	PMX	0.5	Swap mutation (0.025)	0.025		94.43999999999997	1.5029304707803353
+100	50	Tournament(2)	PMX	0.6	Swap mutation (0.025)	0.025		93.42399999999999	1.2341085851739326
+100	50	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		92.59999999999998	1.6315636671610478
+100	50	Tournament(2)	PMX	0.8	Swap mutation (0.025)	0.025		93.49600000000001	1.2039867108901174
+100	50	Tournament(2)	PMX	0.9	Swap mutation (0.025)	0.025		93.62200000000001	1.3723396081145522
+100	50	Tournament(2)	Cycle recombination (0.1)	0.1	Swap mutation (0.025)	0.025		96.39999999999996	1.5942396306703688
+100	50	Tournament(2)	Cycle recombination (0.2)	0.2	Swap mutation (0.025)	0.025		96.42	1.5265647709809091
+100	50	Tournament(2)	Cycle recombination (0.3)	0.3	Swap mutation (0.025)	0.025		95.402	1.7745410674312376
+100	50	Tournament(2)	Cycle recombination (0.4)	0.4	Swap mutation (0.025)	0.025		95.274	1.56125718573206
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		95.03200000000001	1.5310702139353374
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		94.93799999999999	1.3706772048881533
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		94.96600000000001	1.5732272563110523
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		94.08999999999996	1.3733535597216042
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		93.77399999999997	1.2809074908048594
+100	50	Tournament(2)	Ordered recombination (0.1)	0.1	Swap mutation (0.025)	0.025		95.53199999999997	2.0235058685360907
+100	50	Tournament(2)	Ordered recombination (0.2)	0.2	Swap mutation (0.025)	0.025		95.77000000000002	1.3780058055030093
+100	50	Tournament(2)	Ordered recombination (0.3)	0.3	Swap mutation (0.025)	0.025		95.40199999999997	1.5025964195352
+100	50	Tournament(2)	Ordered recombination (0.4)	0.4	Swap mutation (0.025)	0.025		94.984	1.3230812522290536
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		94.47000000000001	1.749085475327036
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		94.506	1.6526838778181383
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		95.06399999999998	1.0751297596104388
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		95.28799999999997	1.150763224994612
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		94.87400000000001	1.4971720008068554

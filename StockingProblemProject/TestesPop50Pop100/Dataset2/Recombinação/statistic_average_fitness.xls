@@ -1,0 +1,28 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	50	Tournament(2)	PMX	0.1	Inversion mutation (0.025)	0.025		111.04199999999999	1.6415955652961518
+100	50	Tournament(2)	PMX	0.2	Inversion mutation (0.025)	0.025		111.09799999999997	1.2753807274692526
+100	50	Tournament(2)	PMX	0.3	Inversion mutation (0.025)	0.025		110.448	1.3440595224914682
+100	50	Tournament(2)	PMX	0.4	Inversion mutation (0.025)	0.025		110.104	1.6654080581046797
+100	50	Tournament(2)	PMX	0.5	Inversion mutation (0.025)	0.025		109.764	1.3424991620109088
+100	50	Tournament(2)	PMX	0.6	Inversion mutation (0.025)	0.025		109.65999999999998	1.2445079348883246
+100	50	Tournament(2)	PMX	0.7	Inversion mutation (0.025)	0.025		109.27000000000002	1.194026800369236
+100	50	Tournament(2)	PMX	0.8	Inversion mutation (0.025)	0.025		109.65000000000002	0.7785242449660764
+100	50	Tournament(2)	PMX	0.9	Inversion mutation (0.025)	0.025		109.93199999999999	0.8789630253884405
+100	50	Tournament(2)	Cycle recombination (0.1)	0.1	Inversion mutation (0.025)	0.025		111.32399999999998	1.447005183128242
+100	50	Tournament(2)	Cycle recombination (0.2)	0.2	Inversion mutation (0.025)	0.025		111.156	1.645376552646838
+100	50	Tournament(2)	Cycle recombination (0.3)	0.3	Inversion mutation (0.025)	0.025		110.87199999999999	1.611836219967772
+100	50	Tournament(2)	Cycle recombination (0.4)	0.4	Inversion mutation (0.025)	0.025		110.27600000000002	1.3279397576697503
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		109.93799999999996	1.0744096053181955
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		109.822	1.2828546293325662
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		109.63199999999998	1.2316557960729129
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		109.20000000000002	1.222456543194887
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		108.314	1.5985005473880805
+100	50	Tournament(2)	Ordered recombination (0.1)	0.1	Inversion mutation (0.025)	0.025		111.44800000000001	1.5492243220399031
+100	50	Tournament(2)	Ordered recombination (0.2)	0.2	Inversion mutation (0.025)	0.025		111.07599999999996	1.3589054418906423
+100	50	Tournament(2)	Ordered recombination (0.3)	0.3	Inversion mutation (0.025)	0.025		110.71199999999999	1.3960859572390236
+100	50	Tournament(2)	Ordered recombination (0.4)	0.4	Inversion mutation (0.025)	0.025		110.118	1.460368446659951
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		110.48999999999998	1.2020399327809366
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		110.17200000000004	0.9455241932388617
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		110.13600000000002	0.8675851543220415
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		110.15599999999999	0.7307968253899308
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		110.10800000000003	0.7213431915530917

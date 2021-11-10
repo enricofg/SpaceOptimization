@@ -1,0 +1,1081 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:	Seed:
+50	50	Tournament(2)	PMX	0.5	Insert	0.01		98.69999999999999	16
+50	50	Tournament(2)	PMX	0.5	Insert	0.025		98.69999999999999	13
+50	50	Tournament(2)	PMX	0.5	Insert	0.03		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.5	Swap mutation (0.01)	0.01		98.69999999999999	3
+50	50	Tournament(2)	PMX	0.5	Swap mutation (0.025)	0.025		98.69999999999999	12
+50	50	Tournament(2)	PMX	0.5	Swap mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	18
+50	50	Tournament(2)	PMX	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.6	Insert	0.01		98.69999999999999	12
+50	50	Tournament(2)	PMX	0.6	Insert	0.025		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.6	Insert	0.03		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.6	Swap mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.6	Swap mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	4
+50	50	Tournament(2)	PMX	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	6
+50	50	Tournament(2)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	10
+50	50	Tournament(2)	PMX	0.7	Insert	0.01		98.69999999999999	6
+50	50	Tournament(2)	PMX	0.7	Insert	0.025		98.69999999999999	19
+50	50	Tournament(2)	PMX	0.7	Insert	0.03		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.7	Swap mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		98.69999999999999	3
+50	50	Tournament(2)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(2)	PMX	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	3
+50	50	Tournament(2)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	9
+50	50	Tournament(2)	PMX	0.8	Insert	0.01		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.8	Insert	0.025		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.8	Insert	0.03		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.8	Swap mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.9	Insert	0.01		98.69999999999999	3
+50	50	Tournament(2)	PMX	0.9	Insert	0.025		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.9	Insert	0.03		98.69999999999999	1
+50	50	Tournament(2)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	4
+50	50	Tournament(2)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	3
+50	50	Tournament(2)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(2)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Insert	0.01		98.69999999999999	7
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Insert	0.025		98.69999999999999	7
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	28
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	13
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	3
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	29
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	47
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	7
+50	50	Tournament(2)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Insert	0.01		98.69999999999999	44
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	7
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	5
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	26
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	7
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	3
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(2)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Insert	0.01		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Insert	0.025		98.69999999999999	8
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	11
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(2)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Insert	0.025		98.69999999999999	8
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Insert	0.03		98.69999999999999	41
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	12
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	9
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	14
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	13
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	6
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.03		98.69999999999999	7
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	3
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Insert	0.01		98.69999999999999	3
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	17
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	5
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	20
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	37
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	13
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	35
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		100.6	30
+50	50	Tournament(2)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	10
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	11
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	5
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	12
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	4
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	11
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(2)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	8
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	3
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	3
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	9
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	7
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	10
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	12
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	9
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	12
+50	50	Tournament(2)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	12
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	3
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	6
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	3
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	25
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	14
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	12
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(2)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	6
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	9
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Insert	0.025		100.6	27
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	7
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	8
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	10
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(2)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	23
+50	50	Tournament(4)	PMX	0.5	Insert	0.01		98.69999999999999	23
+50	50	Tournament(4)	PMX	0.5	Insert	0.025		98.69999999999999	2
+50	50	Tournament(4)	PMX	0.5	Insert	0.03		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.5	Swap mutation (0.01)	0.01		98.69999999999999	11
+50	50	Tournament(4)	PMX	0.5	Swap mutation (0.025)	0.025		98.69999999999999	30
+50	50	Tournament(4)	PMX	0.5	Swap mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	PMX	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	4
+50	50	Tournament(4)	PMX	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(4)	PMX	0.6	Insert	0.01		98.69999999999999	31
+50	50	Tournament(4)	PMX	0.6	Insert	0.025		98.69999999999999	2
+50	50	Tournament(4)	PMX	0.6	Insert	0.03		98.69999999999999	2
+50	50	Tournament(4)	PMX	0.6	Swap mutation (0.01)	0.01		98.69999999999999	6
+50	50	Tournament(4)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(4)	PMX	0.6	Swap mutation (0.03)	0.03		98.69999999999999	11
+50	50	Tournament(4)	PMX	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	32
+50	50	Tournament(4)	PMX	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(4)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	31
+50	50	Tournament(4)	PMX	0.7	Insert	0.01		98.69999999999999	23
+50	50	Tournament(4)	PMX	0.7	Insert	0.025		98.69999999999999	33
+50	50	Tournament(4)	PMX	0.7	Insert	0.03		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.7	Swap mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(4)	PMX	0.7	Swap mutation (0.025)	0.025		98.69999999999999	28
+50	50	Tournament(4)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(4)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	41
+50	50	Tournament(4)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.8	Insert	0.01		98.69999999999999	5
+50	50	Tournament(4)	PMX	0.8	Insert	0.025		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.8	Insert	0.03		98.69999999999999	36
+50	50	Tournament(4)	PMX	0.8	Swap mutation (0.01)	0.01		98.69999999999999	12
+50	50	Tournament(4)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(4)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	11
+50	50	Tournament(4)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	12
+50	50	Tournament(4)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	4
+50	50	Tournament(4)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(4)	PMX	0.9	Insert	0.01		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.9	Insert	0.025		98.69999999999999	3
+50	50	Tournament(4)	PMX	0.9	Insert	0.03		98.69999999999999	4
+50	50	Tournament(4)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(4)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(4)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(4)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	2
+50	50	Tournament(4)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	4
+50	50	Tournament(4)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.01		98.69999999999999	28
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.025		98.69999999999999	39
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	47
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	17
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		100.89999999999999	25
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		100.89999999999999	17
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	10
+50	50	Tournament(4)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	10
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.01		98.69999999999999	15
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	12
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	12
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	40
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	39
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	17
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		101.19999999999999	14
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		101.19999999999999	14
+50	50	Tournament(4)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	16
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.01		100.6	3
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.025		98.69999999999999	14
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	14
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		101.19999999999999	4
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	10
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	6
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	37
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	44
+50	50	Tournament(4)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	26
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	18
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.025		100.6	8
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.03		101.19999999999999	14
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	7
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	7
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	7
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	44
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	17
+50	50	Tournament(4)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	18
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	26
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	26
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.03		98.69999999999999	26
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	26
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	7
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	8
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	26
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	26
+50	50	Tournament(4)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	26
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(4)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	7
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	19
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	6
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	6
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	15
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	10
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	10
+50	50	Tournament(4)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	18
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.025		98.69999999999999	6
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	3
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	18
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	10
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	13
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	4
+50	50	Tournament(4)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(6)	PMX	0.5	Insert	0.01		98.69999999999999	20
+50	50	Tournament(6)	PMX	0.5	Insert	0.025		98.69999999999999	2
+50	50	Tournament(6)	PMX	0.5	Insert	0.03		98.69999999999999	17
+50	50	Tournament(6)	PMX	0.5	Swap mutation (0.01)	0.01		100.89999999999999	21
+50	50	Tournament(6)	PMX	0.5	Swap mutation (0.025)	0.025		98.69999999999999	25
+50	50	Tournament(6)	PMX	0.5	Swap mutation (0.03)	0.03		100.89999999999999	10
+50	50	Tournament(6)	PMX	0.5	Inversion mutation (0.01)	0.01		100.89999999999999	49
+50	50	Tournament(6)	PMX	0.5	Inversion mutation (0.025)	0.025		100.6	10
+50	50	Tournament(6)	PMX	0.5	Inversion mutation (0.03)	0.03		100.89999999999999	44
+50	50	Tournament(6)	PMX	0.6	Insert	0.01		98.69999999999999	27
+50	50	Tournament(6)	PMX	0.6	Insert	0.025		98.69999999999999	13
+50	50	Tournament(6)	PMX	0.6	Insert	0.03		98.69999999999999	13
+50	50	Tournament(6)	PMX	0.6	Swap mutation (0.01)	0.01		98.69999999999999	20
+50	50	Tournament(6)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	18
+50	50	Tournament(6)	PMX	0.6	Swap mutation (0.03)	0.03		100.6	31
+50	50	Tournament(6)	PMX	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	20
+50	50	Tournament(6)	PMX	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	18
+50	50	Tournament(6)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	24
+50	50	Tournament(6)	PMX	0.7	Insert	0.01		98.69999999999999	10
+50	50	Tournament(6)	PMX	0.7	Insert	0.025		98.69999999999999	8
+50	50	Tournament(6)	PMX	0.7	Insert	0.03		98.69999999999999	8
+50	50	Tournament(6)	PMX	0.7	Swap mutation (0.01)	0.01		98.69999999999999	10
+50	50	Tournament(6)	PMX	0.7	Swap mutation (0.025)	0.025		98.69999999999999	8
+50	50	Tournament(6)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	8
+50	50	Tournament(6)	PMX	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	10
+50	50	Tournament(6)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	24
+50	50	Tournament(6)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	12
+50	50	Tournament(6)	PMX	0.8	Insert	0.01		98.69999999999999	2
+50	50	Tournament(6)	PMX	0.8	Insert	0.025		98.69999999999999	4
+50	50	Tournament(6)	PMX	0.8	Insert	0.03		98.69999999999999	1
+50	50	Tournament(6)	PMX	0.8	Swap mutation (0.01)	0.01		98.69999999999999	13
+50	50	Tournament(6)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	4
+50	50	Tournament(6)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(6)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	4
+50	50	Tournament(6)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	4
+50	50	Tournament(6)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(6)	PMX	0.9	Insert	0.01		98.69999999999999	25
+50	50	Tournament(6)	PMX	0.9	Insert	0.025		98.69999999999999	38
+50	50	Tournament(6)	PMX	0.9	Insert	0.03		98.69999999999999	1
+50	50	Tournament(6)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	25
+50	50	Tournament(6)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	17
+50	50	Tournament(6)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	28
+50	50	Tournament(6)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	25
+50	50	Tournament(6)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	6
+50	50	Tournament(6)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	6
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Insert	0.01		100.89999999999999	4
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Insert	0.025		100.6	4
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	15
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	16
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	18
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		100.6	4
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		101.19999999999999	10
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		101.19999999999999	14
+50	50	Tournament(6)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	43
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Insert	0.01		98.69999999999999	43
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	6
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	6
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	49
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	22
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	18
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	18
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	6
+50	50	Tournament(6)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Insert	0.01		100.6	38
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Insert	0.025		100.89999999999999	17
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	16
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		101.19999999999999	14
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		101.19999999999999	14
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	35
+50	50	Tournament(6)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		100.89999999999999	17
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	4
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Insert	0.025		98.69999999999999	8
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Insert	0.03		98.69999999999999	12
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	4
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		100.6	16
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		100.6	44
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		101.19999999999999	4
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	5
+50	50	Tournament(6)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	11
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	4
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	33
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Insert	0.03		101.19999999999999	2
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		100.89999999999999	4
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	33
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	19
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	34
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	33
+50	50	Tournament(6)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	28
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Insert	0.01		101.19999999999999	11
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	33
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	28
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	37
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	47
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	37
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	6
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	15
+50	50	Tournament(6)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		100.6	10
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	23
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	13
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	12
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	22
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		100.89999999999999	26
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	23
+50	50	Tournament(6)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	10
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	4
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	16
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	13
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	1
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	16
+50	50	Tournament(6)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	19
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Insert	0.025		98.69999999999999	15
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	6
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	9
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	31
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	17
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	10
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	32
+50	50	Tournament(6)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(8)	PMX	0.5	Insert	0.01		101.19999999999999	10
+50	50	Tournament(8)	PMX	0.5	Insert	0.025		98.69999999999999	49
+50	50	Tournament(8)	PMX	0.5	Insert	0.03		98.69999999999999	13
+50	50	Tournament(8)	PMX	0.5	Swap mutation (0.01)	0.01		98.69999999999999	42
+50	50	Tournament(8)	PMX	0.5	Swap mutation (0.025)	0.025		100.89999999999999	45
+50	50	Tournament(8)	PMX	0.5	Swap mutation (0.03)	0.03		98.69999999999999	30
+50	50	Tournament(8)	PMX	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	49
+50	50	Tournament(8)	PMX	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	33
+50	50	Tournament(8)	PMX	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	8
+50	50	Tournament(8)	PMX	0.6	Insert	0.01		100.89999999999999	8
+50	50	Tournament(8)	PMX	0.6	Insert	0.025		98.69999999999999	21
+50	50	Tournament(8)	PMX	0.6	Insert	0.03		98.69999999999999	14
+50	50	Tournament(8)	PMX	0.6	Swap mutation (0.01)	0.01		101.19999999999999	4
+50	50	Tournament(8)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	19
+50	50	Tournament(8)	PMX	0.6	Swap mutation (0.03)	0.03		98.69999999999999	42
+50	50	Tournament(8)	PMX	0.6	Inversion mutation (0.01)	0.01		100.89999999999999	41
+50	50	Tournament(8)	PMX	0.6	Inversion mutation (0.025)	0.025		100.89999999999999	38
+50	50	Tournament(8)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	32
+50	50	Tournament(8)	PMX	0.7	Insert	0.01		100.89999999999999	1
+50	50	Tournament(8)	PMX	0.7	Insert	0.025		98.69999999999999	32
+50	50	Tournament(8)	PMX	0.7	Insert	0.03		98.69999999999999	7
+50	50	Tournament(8)	PMX	0.7	Swap mutation (0.01)	0.01		101.19999999999999	14
+50	50	Tournament(8)	PMX	0.7	Swap mutation (0.025)	0.025		100.89999999999999	47
+50	50	Tournament(8)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	15
+50	50	Tournament(8)	PMX	0.7	Inversion mutation (0.01)	0.01		101.19999999999999	3
+50	50	Tournament(8)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	16
+50	50	Tournament(8)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	28
+50	50	Tournament(8)	PMX	0.8	Insert	0.01		98.69999999999999	15
+50	50	Tournament(8)	PMX	0.8	Insert	0.025		98.69999999999999	42
+50	50	Tournament(8)	PMX	0.8	Insert	0.03		100.6	41
+50	50	Tournament(8)	PMX	0.8	Swap mutation (0.01)	0.01		100.89999999999999	23
+50	50	Tournament(8)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	16
+50	50	Tournament(8)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	10
+50	50	Tournament(8)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	40
+50	50	Tournament(8)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	40
+50	50	Tournament(8)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	10
+50	50	Tournament(8)	PMX	0.9	Insert	0.01		98.69999999999999	4
+50	50	Tournament(8)	PMX	0.9	Insert	0.025		98.69999999999999	4
+50	50	Tournament(8)	PMX	0.9	Insert	0.03		98.69999999999999	4
+50	50	Tournament(8)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	4
+50	50	Tournament(8)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	4
+50	50	Tournament(8)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	4
+50	50	Tournament(8)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	4
+50	50	Tournament(8)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(8)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Insert	0.01		100.89999999999999	4
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Insert	0.025		100.89999999999999	12
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	33
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		100.89999999999999	47
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		100.89999999999999	33
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		100.89999999999999	33
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		100.89999999999999	4
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	46
+50	50	Tournament(8)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	17
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Insert	0.01		98.69999999999999	33
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	40
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	9
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	10
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	17
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	40
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		101.19999999999999	14
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	38
+50	50	Tournament(8)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	34
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Insert	0.01		98.69999999999999	32
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Insert	0.025		98.69999999999999	13
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	24
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	32
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	9
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	25
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	32
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	27
+50	50	Tournament(8)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	32
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	15
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Insert	0.025		98.69999999999999	28
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Insert	0.03		98.69999999999999	2
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	28
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	3
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	13
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		100.89999999999999	6
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	3
+50	50	Tournament(8)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	3
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	5
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	5
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Insert	0.03		98.69999999999999	36
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	41
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	29
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	29
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	35
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	24
+50	50	Tournament(8)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	29
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Insert	0.01		101.19999999999999	14
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	5
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	37
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	41
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	37
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	37
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	41
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	37
+50	50	Tournament(8)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	37
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	7
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	15
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	10
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	41
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	41
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	10
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	41
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	23
+50	50	Tournament(8)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	11
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	17
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	27
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	27
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	17
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	34
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	5
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	17
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	34
+50	50	Tournament(8)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	2
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	33
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	49
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	22
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	42
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	22
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	25
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		101.19999999999999	14
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	28
+50	50	Tournament(8)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	22
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	34
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Insert	0.025		98.69999999999999	2
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	37
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	34
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	49
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	34
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	2
+50	50	Tournament(8)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.5	Insert	0.01		98.69999999999999	13
+100	50	Tournament(2)	PMX	0.5	Insert	0.025		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.5	Insert	0.03		98.69999999999999	7
+100	50	Tournament(2)	PMX	0.5	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.5	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.5	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(2)	PMX	0.6	Insert	0.01		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.6	Insert	0.025		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.6	Insert	0.03		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.6	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(2)	PMX	0.6	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(2)	PMX	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(2)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.7	Insert	0.01		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.7	Insert	0.025		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.7	Insert	0.03		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.7	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.7	Swap mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(2)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(2)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.8	Insert	0.01		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.8	Insert	0.025		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.8	Insert	0.03		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.8	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(2)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.9	Insert	0.01		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.9	Insert	0.025		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.9	Insert	0.03		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(2)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Insert	0.01		98.69999999999999	24
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Insert	0.025		98.69999999999999	5
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	4
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	13
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	12
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	24
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	7
+100	50	Tournament(2)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	15
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Insert	0.01		98.69999999999999	14
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	7
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	4
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Insert	0.01		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Insert	0.025		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	6
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	4
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(2)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Insert	0.025		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Insert	0.03		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Insert	0.03		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Insert	0.01		98.69999999999999	5
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	10
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	2
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	7
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(2)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	8
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	23
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	3
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	9
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	4
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	10
+100	50	Tournament(2)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	3
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	3
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	5
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(2)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	10
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	7
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	9
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	14
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	17
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	7
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	18
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Insert	0.025		98.69999999999999	2
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	4
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	6
+100	50	Tournament(2)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.5	Insert	0.01		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.5	Insert	0.025		98.69999999999999	5
+100	50	Tournament(4)	PMX	0.5	Insert	0.03		98.69999999999999	8
+100	50	Tournament(4)	PMX	0.5	Swap mutation (0.01)	0.01		98.69999999999999	47
+100	50	Tournament(4)	PMX	0.5	Swap mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(4)	PMX	0.5	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(4)	PMX	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(4)	PMX	0.6	Insert	0.01		98.69999999999999	3
+100	50	Tournament(4)	PMX	0.6	Insert	0.025		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.6	Insert	0.03		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.6	Swap mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(4)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.6	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(4)	PMX	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(4)	PMX	0.7	Insert	0.01		98.69999999999999	8
+100	50	Tournament(4)	PMX	0.7	Insert	0.025		98.69999999999999	4
+100	50	Tournament(4)	PMX	0.7	Insert	0.03		98.69999999999999	6
+100	50	Tournament(4)	PMX	0.7	Swap mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(4)	PMX	0.7	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(4)	PMX	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	8
+100	50	Tournament(4)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(4)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(4)	PMX	0.8	Insert	0.01		98.69999999999999	9
+100	50	Tournament(4)	PMX	0.8	Insert	0.025		98.69999999999999	4
+100	50	Tournament(4)	PMX	0.8	Insert	0.03		98.69999999999999	4
+100	50	Tournament(4)	PMX	0.8	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(4)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	14
+100	50	Tournament(4)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.9	Insert	0.01		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.9	Insert	0.025		98.69999999999999	3
+100	50	Tournament(4)	PMX	0.9	Insert	0.03		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(4)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(4)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(4)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.01		98.69999999999999	2
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.025		98.69999999999999	8
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	21
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	6
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	16
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	13
+100	50	Tournament(4)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	7
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.01		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	15
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	11
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	9
+100	50	Tournament(4)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	16
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.01		98.69999999999999	4
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.025		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	11
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	4
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	4
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(4)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	12
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	16
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.025		98.69999999999999	9
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Insert	0.03		98.69999999999999	11
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	32
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	7
+100	50	Tournament(4)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	11
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	1
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Insert	0.03		98.69999999999999	5
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	7
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	7
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(4)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.01		98.69999999999999	5
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	2
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	18
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	5
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	10
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	16
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	5
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(4)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	16
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	8
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	8
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	16
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	16
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(4)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	5
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	2
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	18
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	24
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	11
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	20
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(4)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	10
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	10
+100	50	Tournament(4)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	5
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.025		98.69999999999999	2
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(4)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(6)	PMX	0.5	Insert	0.01		98.69999999999999	5
+100	50	Tournament(6)	PMX	0.5	Insert	0.025		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.5	Insert	0.03		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.5	Swap mutation (0.01)	0.01		98.69999999999999	12
+100	50	Tournament(6)	PMX	0.5	Swap mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.5	Swap mutation (0.03)	0.03		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	12
+100	50	Tournament(6)	PMX	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(6)	PMX	0.6	Insert	0.01		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.6	Insert	0.025		98.69999999999999	5
+100	50	Tournament(6)	PMX	0.6	Insert	0.03		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.6	Swap mutation (0.01)	0.01		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(6)	PMX	0.6	Swap mutation (0.03)	0.03		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(6)	PMX	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	42
+100	50	Tournament(6)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	7
+100	50	Tournament(6)	PMX	0.7	Insert	0.01		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.7	Insert	0.025		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.7	Insert	0.03		98.69999999999999	4
+100	50	Tournament(6)	PMX	0.7	Swap mutation (0.01)	0.01		98.69999999999999	18
+100	50	Tournament(6)	PMX	0.7	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(6)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	49
+100	50	Tournament(6)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.8	Insert	0.01		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.8	Insert	0.025		98.69999999999999	6
+100	50	Tournament(6)	PMX	0.8	Insert	0.03		98.69999999999999	5
+100	50	Tournament(6)	PMX	0.8	Swap mutation (0.01)	0.01		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	11
+100	50	Tournament(6)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	13
+100	50	Tournament(6)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.9	Insert	0.01		98.69999999999999	4
+100	50	Tournament(6)	PMX	0.9	Insert	0.025		98.69999999999999	3
+100	50	Tournament(6)	PMX	0.9	Insert	0.03		98.69999999999999	3
+100	50	Tournament(6)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(6)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	11
+100	50	Tournament(6)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(6)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	4
+100	50	Tournament(6)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(6)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Insert	0.01		101.19999999999999	14
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Insert	0.025		98.69999999999999	24
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	16
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	13
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	15
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	12
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	24
+100	50	Tournament(6)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Insert	0.01		100.6	34
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	7
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	22
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		100.89999999999999	9
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	11
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	18
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(6)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	7
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Insert	0.01		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Insert	0.025		98.69999999999999	2
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	11
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	9
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(6)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	18
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Insert	0.025		98.69999999999999	1
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Insert	0.03		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	18
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	18
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(6)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	10
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	5
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Insert	0.03		98.69999999999999	27
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	6
+100	50	Tournament(6)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Insert	0.01		98.69999999999999	19
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	9
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	3
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	9
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	13
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	19
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(6)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	6
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	5
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	6
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	24
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	7
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	24
+100	50	Tournament(6)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	7
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	1
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	1
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	5
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(6)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	5
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	8
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	3
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	21
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	18
+100	50	Tournament(6)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	16
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Insert	0.025		98.69999999999999	4
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	16
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	6
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	16
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	7
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	6
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	12
+100	50	Tournament(6)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	16
+100	50	Tournament(8)	PMX	0.5	Insert	0.01		98.69999999999999	38
+100	50	Tournament(8)	PMX	0.5	Insert	0.025		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.5	Insert	0.03		98.69999999999999	8
+100	50	Tournament(8)	PMX	0.5	Swap mutation (0.01)	0.01		98.69999999999999	47
+100	50	Tournament(8)	PMX	0.5	Swap mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.5	Swap mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(8)	PMX	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	8
+100	50	Tournament(8)	PMX	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(8)	PMX	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(8)	PMX	0.6	Insert	0.01		98.69999999999999	2
+100	50	Tournament(8)	PMX	0.6	Insert	0.025		98.69999999999999	2
+100	50	Tournament(8)	PMX	0.6	Insert	0.03		98.69999999999999	1
+100	50	Tournament(8)	PMX	0.6	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(8)	PMX	0.6	Swap mutation (0.025)	0.025		98.69999999999999	12
+100	50	Tournament(8)	PMX	0.6	Swap mutation (0.03)	0.03		98.69999999999999	1
+100	50	Tournament(8)	PMX	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	4
+100	50	Tournament(8)	PMX	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(8)	PMX	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	20
+100	50	Tournament(8)	PMX	0.7	Insert	0.01		98.69999999999999	23
+100	50	Tournament(8)	PMX	0.7	Insert	0.025		98.69999999999999	8
+100	50	Tournament(8)	PMX	0.7	Insert	0.03		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.7	Swap mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(8)	PMX	0.7	Swap mutation (0.025)	0.025		98.69999999999999	10
+100	50	Tournament(8)	PMX	0.7	Swap mutation (0.03)	0.03		98.69999999999999	10
+100	50	Tournament(8)	PMX	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	1
+100	50	Tournament(8)	PMX	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	10
+100	50	Tournament(8)	PMX	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	10
+100	50	Tournament(8)	PMX	0.8	Insert	0.01		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.8	Insert	0.025		98.69999999999999	2
+100	50	Tournament(8)	PMX	0.8	Insert	0.03		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.8	Swap mutation (0.01)	0.01		98.69999999999999	17
+100	50	Tournament(8)	PMX	0.8	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(8)	PMX	0.8	Swap mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(8)	PMX	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(8)	PMX	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.9	Insert	0.01		98.69999999999999	9
+100	50	Tournament(8)	PMX	0.9	Insert	0.025		98.69999999999999	3
+100	50	Tournament(8)	PMX	0.9	Insert	0.03		98.69999999999999	4
+100	50	Tournament(8)	PMX	0.9	Swap mutation (0.01)	0.01		98.69999999999999	9
+100	50	Tournament(8)	PMX	0.9	Swap mutation (0.025)	0.025		98.69999999999999	1
+100	50	Tournament(8)	PMX	0.9	Swap mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(8)	PMX	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	9
+100	50	Tournament(8)	PMX	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	17
+100	50	Tournament(8)	PMX	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Insert	0.01		98.69999999999999	7
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Insert	0.025		98.69999999999999	7
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Insert	0.03		98.69999999999999	8
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	21
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	8
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	30
+100	50	Tournament(8)	Cycle recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	7
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Insert	0.01		98.69999999999999	8
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Insert	0.025		98.69999999999999	8
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Insert	0.03		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	12
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	12
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	4
+100	50	Tournament(8)	Cycle recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	12
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Insert	0.01		100.6	32
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Insert	0.025		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Insert	0.03		98.69999999999999	1
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	10
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	3
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Insert	0.01		98.69999999999999	8
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Insert	0.025		98.69999999999999	3
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Insert	0.03		98.69999999999999	3
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	28
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	17
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	28
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(8)	Cycle recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Insert	0.01		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Insert	0.025		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Insert	0.03		98.69999999999999	3
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	5
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	2
+100	50	Tournament(8)	Cycle recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Insert	0.01		98.69999999999999	4
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Insert	0.025		98.69999999999999	4
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Insert	0.03		98.69999999999999	4
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Swap mutation (0.01)	0.01		98.69999999999999	4
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Swap mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Inversion mutation (0.01)	0.01		98.69999999999999	8
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(8)	Ordered recombination (0.5)	0.5	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Insert	0.01		98.69999999999999	2
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Insert	0.025		98.69999999999999	13
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Insert	0.03		98.69999999999999	6
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Swap mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Swap mutation (0.025)	0.025		98.69999999999999	10
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Swap mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Inversion mutation (0.01)	0.01		98.69999999999999	2
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Inversion mutation (0.025)	0.025		98.69999999999999	8
+100	50	Tournament(8)	Ordered recombination (0.6)	0.6	Inversion mutation (0.03)	0.03		98.69999999999999	8
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Insert	0.01		98.69999999999999	23
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Insert	0.025		98.69999999999999	5
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Insert	0.03		98.69999999999999	8
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Swap mutation (0.01)	0.01		98.69999999999999	30
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Swap mutation (0.025)	0.025		98.69999999999999	17
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Swap mutation (0.03)	0.03		98.69999999999999	18
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Inversion mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Inversion mutation (0.025)	0.025		98.69999999999999	6
+100	50	Tournament(8)	Ordered recombination (0.7)	0.7	Inversion mutation (0.03)	0.03		98.69999999999999	6
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Insert	0.01		98.69999999999999	18
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Insert	0.025		98.69999999999999	3
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Insert	0.03		98.69999999999999	3
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Swap mutation (0.01)	0.01		98.69999999999999	41
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Swap mutation (0.025)	0.025		98.69999999999999	3
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Inversion mutation (0.01)	0.01		98.69999999999999	25
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Inversion mutation (0.025)	0.025		98.69999999999999	30
+100	50	Tournament(8)	Ordered recombination (0.8)	0.8	Inversion mutation (0.03)	0.03		98.69999999999999	4
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Insert	0.01		98.69999999999999	20
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Insert	0.025		98.69999999999999	11
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Insert	0.03		98.69999999999999	2
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Swap mutation (0.01)	0.01		98.69999999999999	10
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Swap mutation (0.025)	0.025		98.69999999999999	11
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Swap mutation (0.03)	0.03		98.69999999999999	3
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Inversion mutation (0.01)	0.01		98.69999999999999	19
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		98.69999999999999	32
+100	50	Tournament(8)	Ordered recombination (0.9)	0.9	Inversion mutation (0.03)	0.03		98.69999999999999	9

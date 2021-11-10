@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob,:	Mutation:	Mutation prob,:	Average:	StdDev:											
+pop 50	ger 200	Tournament(2)	Cycle recombination (0,8)	0,8	Insert	0,01	101,192	1,289936433											
+pop 100	ger 100	Tournament(2)	Cycle recombination (0,8)	0,8	Insert	0,01	99,518	1,206265311											
+pop 200	ger 50	Tournament(2)	Cycle recombination (0,8)	0,8	Insert	0,01	98,7	8,53E-14											
+pop 400	ger 25	Tournament(2)	Cycle recombination (0,8)	0,8	Insert	0,01	98,7	8,53E-14											
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			

@@ -1,0 +1,96 @@
+
+
+Population size:100
+Max generations:50
+Selection:Tournament(2)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Swap mutation (0.025)
+Mutation prob.: 0.025
+fitness: 90.1
+16 26 9 2 25 24 7 14 15 10 28 5 20 27 1 21 11 17 12 18 4 8 0 13 22 6 3 19 23 
+AAQQIIJJcZZOOUUUUUUUUVV EEEEEEN                                                                                
+QQQQIJJ ccZ OOOBBRRRRRVVE  N NNW                                                                               
+QQQ JJCZccZ FFOOBBBRRRMVVNNNNNNW X                                                                             
+QQaJJ CZZZZ FFOOLLB   M VVVVV WW X                                                                             
+YYaJJ CHHPPPPFFLLLLLMMMM  VVVVWWXX                                                                             
+YYaaJJCCH KKKFF b LLSSMGGVVVTWW XX                                                                             
+YYDaJJJCHHKKKbbbbbbbSS GGVVTTWXXXX                                                                             
+Número de colunas: 34
+Número de cortes: 221
+
+Population size:100
+Max generations:50
+Selection:Tournament(4)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Swap mutation (0.025)
+Mutation prob.: 0.025
+fitness: 90.69999999999999
+28 12 9 10 11 13 7 18 21 3 20 14 22 6 27 8 4 0 15 2 26 25 1 17 16 23 5 19 24 
+c HHGG JJ VVUUUUUUUU Ca BBRRRRRFF                                                                              
+ccMHGGJJOO VV EEEEEEWCa  BBBRRRFF                                                                              
+ccMHHJJLLOOOVVEPPPP WCaa ZZB QQXFF                                                                             
+MMMMJJLLLLLOOVVVVV WWCCa  ZQQQQXFF                                                                             
+D M JJ IILLOON VVVVWW CZ  ZQQQXXYY                                                                             
+KKKSSJJIAAN NNVVVTWW  bZZZZQQ XXYY                                                                             
+KKKSSJJJNNNNNNVVTTWbbbbbbb  XXXXYY                                                                             
+Número de colunas: 34
+Número de cortes: 223
+
+Population size:100
+Max generations:50
+Selection:Tournament(6)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Swap mutation (0.025)
+Mutation prob.: 0.025
+fitness: 90.8
+23 21 10 22 13 16 17 9 8 4 26 0 28 7 3 15 11 14 19 1 2 5 27 20 6 12 25 18 24 
+KKKXVVRRRRREEEEEEQQ JJ    CFF    ZZ                                                                            
+KKKXcVV RRREGGWQQQQJJOO   CFF     Z                                                                            
+IIXXccVVPPPPGGWQQQJJLLOOO C FFMZ  Z                                                                            
+IDXXccaVVVVV WWQQJJLLLLLOOCCFFMZZZZ                                                                            
+XXXX Na  VVVVWWHHJJBB LLOObCMMMMYY                                                                             
+AAN NNaaVVVTWWSSH JJBBBbbbbbbbM YY                                                                             
+NNNNNN aVVTTW SSHHJJJ BUUUUUUUU YY                                                                             
+Número de colunas: 35
+Número de cortes: 221
+
+Population size:100
+Max generations:50
+Selection:Tournament(8)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Swap mutation (0.025)
+Mutation prob.: 0.025
+fitness: 90.1
+12 10 27 4 24 11 26 1 21 14 19 5 22 13 17 3 20 9 15 16 25 8 0 7 2 23 28 6 18 
+DTMEEEEEEVVRRRRRFFGGWUUUUUUUUJJc                                                                               
+TTMEYYaBB VV RRRFFGGW  QQ   JJCcc                                                                              
+MMMMYYa BBBVVPPPPFFWWQQQQ  JJ CccX                                                                             
+AAM YYaaOOB VVVVVFFWWQQQZZJJHHC  X                                                                             
+KKK  LLa OOO  VVVVWWNQQSSZJJ HCCXX                                                                             
+KKKbLLLLLIIOOVVV NWNN ZSSZ JJHHCXX                                                                             
+bbbbbbbLLI OOVVNNNNNN ZZZZ JJJXXXX                                                                             
+Número de colunas: 34
+Número de cortes: 221
+
+Population size:100
+Max generations:50
+Selection:Tournament(10)
+Recombination:PMX
+Recombination prob.: 0.7
+Mutation:Swap mutation (0.025)
+Mutation prob.: 0.025
+fitness: 89.19999999999999
+16 0 22 12 9 24 21 25 28 18 20 27 14 3 5 4 11 23 10 19 8 7 6 1 17 2 13 26 15 
+AAQQWc IIJJVVUUUUUUUUEEEEEEHH  Ca                                                                              
+QQQQWccIJJZZVVPPPPb  ERRRRRXH  Ca                                                                              
+QQQWWccJJSSZ VVbbbbbbbLLRRRXHH Caa                                                                             
+QQDWWMJJZSSZFFVVVVVOOLLLLLXXBB CCa                                                                             
+YYWW MJJZZZZFF  VVVVOOO LLXX BBBCN                                                                             
+YYWMMMMJJ KKKFFVVVTGG OOXXXX  NBNN                                                                             
+YY   M JJJKKKFFVVTTGG OO    NNNNNN                                                                             
+Número de colunas: 34
+Número de cortes: 218

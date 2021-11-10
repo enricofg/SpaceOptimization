@@ -1,0 +1,10 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	50	Tournament(4)	PMX	0.9	Insert	0.01		127.39399999999999	2.05469316444086
+100	50	Tournament(4)	PMX	0.9	Insert	0.025		127.08400000000002	2.178931848406461
+100	50	Tournament(4)	PMX	0.9	Insert	0.03		126.10200000000003	2.334051413315481
+100	50	Tournament(4)	PMX	0.9	Swap mutation (0.01)	0.01		127.82799999999999	1.8384819825062202
+100	50	Tournament(4)	PMX	0.9	Swap mutation (0.025)	0.025		127.34200000000001	2.1544456363528863
+100	50	Tournament(4)	PMX	0.9	Swap mutation (0.03)	0.03		126.85000000000004	2.1432918606666713
+100	50	Tournament(4)	PMX	0.9	Inversion mutation (0.01)	0.01		127.36800000000002	2.1001371383792993
+100	50	Tournament(4)	PMX	0.9	Inversion mutation (0.025)	0.025		127.60800000000003	2.058527629156333
+100	50	Tournament(4)	PMX	0.9	Inversion mutation (0.03)	0.03		127.40799999999997	1.8761492477945358

@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+50	25	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		110.66399999999997	1.624655040308556
+50	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		110.316	1.465927692623343
+50	100	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		110.02999999999999	1.4065916251705741
+50	200	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		109.58000000000001	1.4323407415835083
+100	25	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		109.476	1.3170512518501314
+100	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		108.314	1.5985005473880805
+100	100	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		107.90799999999999	1.6574486417382555
+100	200	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		107.56599999999999	1.596697842423541
+200	25	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		109.15599999999999	1.0972985008647378
+200	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		106.25000000000001	1.3837991183694236
+200	100	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		105.168	1.3066659863943781
+200	200	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		104.90400000000001	1.4126514078143964
+400	25	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		108.55199999999999	1.252396103475251
+400	50	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		105.68800000000003	0.8500917597530265
+400	100	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		102.772	1.6895017016860334
+400	200	Tournament(2)	Cycle recombination (0.9)	0.9	Inversion mutation (0.025)	0.025		102.08200000000002	1.7175203055568242
